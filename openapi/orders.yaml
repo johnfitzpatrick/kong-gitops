@@ -1,10 +1,10 @@
 openapi: 3.0.0
 info:
-  version: '1.0.5'
+  version: '1.0.6'
   title: Pizza Order API
   license:
     name: Apache 2.0
-  description: 'Pizza ordering API Demo for today v1.0.5'
+  description: 'Pizza ordering API Demo for today v1.0.6'
   contact:
     name: Kong
 servers:
